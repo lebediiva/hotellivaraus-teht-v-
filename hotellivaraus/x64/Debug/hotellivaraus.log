@@ -1,0 +1,3 @@
+﻿  hotelli.cpp
+C:\Users\mmari\source\repos\hotellivaraus\hotellivaraus\hotelli.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hotellivaraus.vcxproj -> C:\Users\mmari\source\repos\hotellivaraus\x64\Debug\hotellivaraus.exe
